@@ -599,9 +599,7 @@ footer p {
     color: var(--color-text-c);   
 }
 
-.top_ikone{
 
-  }
   .social-navi{
      gap: 1rem;
   }
@@ -609,7 +607,6 @@ footer p {
 .social-nav {
     cursor: pointer;
     transition: 0.5s;
-    img size: 10px;
 }
 
 .social-navi img {
@@ -840,7 +837,6 @@ textarea{
     .social-nav {
         cursor: pointer;
         transition: 0.5s;
-        img size: 7px;
     }
     
     .social-navi img {
