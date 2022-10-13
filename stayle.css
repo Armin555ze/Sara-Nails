@@ -326,7 +326,9 @@ nav {
 .video {
     display: flex;
     justify-content: center;
-}
+    gap: 4rem;
+    height: 450px;
+
 
 .video1{
     box-shadow: 0 0 15px #DC4B96,
