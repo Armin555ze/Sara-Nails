@@ -328,6 +328,20 @@ nav {
     justify-content: center;
 }
 
+.video1{
+    box-shadow: 0 0 15px #DC4B96,
+    0 0 35px #DC4B96,
+    0 0 60px #DC4B96,
+    0 0 90px #DC4B96;
+}
+
+.video2 {
+    box-shadow: 0 0 15px #DC4B96,
+    0 0 35px #DC4B96,
+    0 0 60px #DC4B96,
+    0 0 90px #DC4B96;
+}
+
 .mapa {
     width: 1800px;
     height: 600px;
