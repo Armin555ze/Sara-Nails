@@ -390,6 +390,12 @@ nav {
     height: 25%;
 }
 
+.video {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+   margin-left: 200px;
+}
 
 
 footer {
