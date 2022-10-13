@@ -325,6 +325,7 @@ nav {
 
 .video {
     display: flex;
+    justify-content: center;
 }
 
 .mapa {
